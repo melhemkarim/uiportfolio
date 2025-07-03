@@ -78,10 +78,10 @@ export default function Home() {
               </Link>
             ))}
             <div className="flex gap-6 pt-4">
-              <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/karim-melhem/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin className="text-teal-600 hover:text-teal-400 transition" size={28} />
               </a>
-              <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/melhemkarim" target="_blank" rel="noopener noreferrer">
                 <FaGithub className="text-teal-600 hover:text-teal-400 transition" size={28} />
               </a>
             </div>
@@ -192,10 +192,10 @@ export default function Home() {
               SEND ME AN EMAIL
             </a> */}
             <div className="flex gap-8 text-2xl">
-              <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/karim-melhem/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin className="hover:text-teal-400 transition" size={28} />
               </a>
-              <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/melhemkarim" target="_blank" rel="noopener noreferrer">
                 <FaGithub className="hover:text-teal-400 transition" size={28} />
               </a>
             </div>
